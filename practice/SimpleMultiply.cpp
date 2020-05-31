@@ -1,6 +1,8 @@
 // Elita Danilyuk
 // 31 May 2020
 
+// Lesson 1 Figure 1-7
+
 #include <iostream>
 
 using namespace std;
