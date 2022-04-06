@@ -1,0 +1,4 @@
+Palmer,74
+Woods,69
+Snead,89
+Mouse,113
