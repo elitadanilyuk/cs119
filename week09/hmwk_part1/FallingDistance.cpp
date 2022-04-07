@@ -1,5 +1,5 @@
 //
-//  Lesson 9 Homework Falling Distance Danilyuk
+//  Lesson 9 Homework Part 1 Falling Distance Danilyuk
 //
 //  Created by Elita Danilyuk on 25 July 2020.
 
